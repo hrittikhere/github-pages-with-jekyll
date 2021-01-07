@@ -11,3 +11,9 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+Communicate with the project community in issues
+Manage notifications for project events
+Create branches to manage work in parallel
+Make commits to update project source
+Introduce changes with pull requests
+Deploy a web page to GitHub Pages
